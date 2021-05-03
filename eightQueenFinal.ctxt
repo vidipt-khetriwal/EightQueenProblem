@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=eightQueenFinal
+comment1.params=
+comment1.target=void\ initialise()
+comment2.params=
+comment2.target=int\ count()
+comment3.params=x\ y
+comment3.target=void\ block(int,\ int)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=x\ y
+comment5.target=void\ unblock(int,\ int)
+comment6.params=
+comment6.target=void\ operate()
+comment7.params=
+comment7.target=void\ main()
+numComments=8
